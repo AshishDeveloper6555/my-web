@@ -12,7 +12,8 @@ import Jadu from "./compents/jadu";
 function App(){
   return (
     <div>
-         <hi>hello world</hi>
+         <h2>hello world</h2>
+         <p>lorem5sjjk</p>
       {/* <Function/>
       <Footer/> */}
       {/* <Footerwork/> */}
